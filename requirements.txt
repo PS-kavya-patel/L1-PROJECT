@@ -1,0 +1,6 @@
+streamlit
+groq
+pypdf
+numpy
+scikit-learn
+python-dotenv
