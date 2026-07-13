@@ -1,4 +1,4 @@
-# Ultra-Simple SDS AI (Minimalist RAG)
+# Simple SDS AI (Minimalist RAG)
 
 A lightweight, purely local Retrieval-Augmented Generation (RAG) application built with Python and Streamlit. This app allows you to upload Safety Data Sheet (SDS) PDFs, automatically processes them using TF-IDF for local search, and answers your questions using the Groq API.
 
