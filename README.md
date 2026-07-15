@@ -2,8 +2,8 @@
 
 A lightweight, purely local Retrieval-Augmented Generation (RAG) application built with Python and Streamlit. This app allows you to upload Safety Data Sheet (SDS) PDFs, automatically processes them using TF-IDF for local search, and answers your questions using the Groq API.
 
-![App Screenshot 1](screenshot1.png)
-![App Screenshot 2](screenshot2.png)
+![App Screenshot 1](./screenshot1.png)
+![App Screenshot 2](./screenshot2.png)
 
 ## Features
 - **No External Vector Database:** Uses `scikit-learn`'s `TfidfVectorizer` and `cosine_similarity` for completely local, in-memory text search.
